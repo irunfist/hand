@@ -5,4 +5,3 @@ public class Simba {
         System.out.println("Hello");
     }
 }
-C:\Users\pvgsn\StudioProjects\Hand
