@@ -8,7 +8,7 @@ import android.view.WindowInsetsController;
 
 public class StatusBar {
     public static void setStatusBar(Window window) {
-        // Common reference for window configuration
+        // Common reference for window configurati
         if (window != null) {
             // Navigation Bar Configuration
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
